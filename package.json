@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hugosrc/ecommerce-web.git",
+  "author": "hugosrc <hugo.uibai54@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
